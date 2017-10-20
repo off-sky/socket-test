@@ -2,5 +2,5 @@ runtime: nodejs
 env: flex
 vm: true
 network:
-- 65080
+- 8080
 instance_tag: websocket
