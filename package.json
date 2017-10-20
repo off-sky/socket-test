@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/off-sky/socket-test#readme",
   "dependencies": {
+    "cors": "^2.8.4",
     "express": "^4.16.2",
     "socket.io": "^2.0.3"
   }

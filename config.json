@@ -1,0 +1,8 @@
+{
+  "GCLOUD_PROJECT": "helloworld-183314",
+  "CLOUD_BUCKET": "helloworld-183314",
+  "DATA_BACKEND": "datastore",
+  "OAUTH2_CLIENT_ID": "927770343612-v22d7b1ucinmjhh7ggep675m3tqgqmtt.apps.googleusercontent.com",
+  "OAUTH2_CLIENT_SECRET": "9Goo2VwWgD8dq7qvqd2CIXRK",
+  "OAUTH2_CALLBACK": "http://localhost:8080/auth/google/callback"
+}
